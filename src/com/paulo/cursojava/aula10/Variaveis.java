@@ -28,6 +28,8 @@ public class Variaveis {
 		// má prática
 		int a = 10;
 		String b = "Loiane";
+		
+		// sempre utilizar no nome da variável algo que signifique alguma coisa para a variável!
 	}
 
 }
